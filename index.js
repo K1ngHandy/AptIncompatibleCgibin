@@ -9,7 +9,6 @@ app.get("/", (req, res) => {
     <head>
         <title>My Node App</title>
         <meta property="og:image" content="https://fc-dev-call.replit.app/image" />
-        <meta property="og:url" content="https://example.com" />
         <!-- Custom Meta Tags -->
         <meta name="fc:frame" content="vNext">
         <meta name="fc:frame:image" content="https://fc-dev-call.replit.app/imagejpg">
