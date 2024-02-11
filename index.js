@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>My Node App</title>
+        <title>Frames Node App</title>
         <meta property="og:image" content="https://fc-dev-call.replit.app/image" />
         <!-- Custom Meta Tags -->
         <meta name="fc:frame" content="vNext" />
